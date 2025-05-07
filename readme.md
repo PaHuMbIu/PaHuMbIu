@@ -1,5 +1,5 @@
-<h3 align="center">💻 Technologies I use</h3>
-<p align="center">
+<h3 align="left">💻 Technologies I use</h3>
+<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" style="margin: 10px;" />
   </a>
@@ -23,8 +23,8 @@
   </a>
 </p>
 
-<h3 align="center">🧠 Currently learning</h3>
-<p align="center">
+<h3 align="left">🧠 Currently learning</h3>
+<p align="left">
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" style="margin: 10px;" />
   </a>
