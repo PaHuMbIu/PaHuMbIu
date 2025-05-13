@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" style="margin: 10px;" />
   </a>
 </p>
-##
+
 <h3 align="left">🧠 Currently learning</h3>
 <p align="left">
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
@@ -35,5 +35,5 @@
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" style="margin: 10px;" />
   </a>
 </p>
-##
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaProfessional&layout=compact)
