@@ -36,4 +36,5 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaProfessional&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaProfessional&layout=compact&cache_seconds=3600)
+
