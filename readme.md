@@ -31,6 +31,15 @@
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" style="margin: 10px;" />
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" ...
+  </a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" style="margin: 10px; border-radius: 8px;" />
+  </a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 10px;" />
+  </a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaProfessional&layout=compact&cache_seconds=3600)
