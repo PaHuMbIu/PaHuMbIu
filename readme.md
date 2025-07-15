@@ -1,11 +1,23 @@
-<h3 align="left">📬 Connect with me</h3>
-<p align="left">
-  <a href="https://t.me/hungry_soldier" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="40" style="margin: 10px; filter: invert(22%) sepia(86%) saturate(749%) hue-rotate(173deg) brightness(96%) contrast(94%);" />
+<p align="center">
+  <a href="https://t.me/hungry_soldier">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.codewars.com/users/LaProfessional/stats">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
 </p>
 
-<h3 align="left">💻 Technologies I use</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LaProfessional&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+<h3 align="left">🛠 Languages and Tools</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" style="margin: 10px;" />
@@ -49,5 +61,14 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaProfessional&layout=compact&cache_seconds=2600)
+---
+### 🔥 My Stats: 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaProfessional&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 
