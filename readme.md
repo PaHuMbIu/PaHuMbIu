@@ -1,3 +1,10 @@
+<h3 align="left">📬 Connect with me</h3>
+<p align="left">
+  <a href="https://t.me/hungry_soldier" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="40" style="margin: 10px; filter: invert(22%) sepia(86%) saturate(749%) hue-rotate(173deg) brightness(96%) contrast(94%);" />
+  </a>
+</p>
+
 <h3 align="left">💻 Technologies I use</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
