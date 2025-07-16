@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <a href="https://t.me/hungry_soldier">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -7,17 +7,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LaProfessional&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+---
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" style="margin: 10px;" />
@@ -42,7 +34,7 @@
   </a>
 </p>
 
-<h3 align="left">🧠 Currently learning</h3>
+<h3 align="left">🧠 Currently learning:</h3>
 <p align="left">
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" style="margin: 10px;" />
