@@ -1,5 +1,5 @@
 <p>
-  <a href="https://t.me/hungry_soldier">
+  <a href="https://t.me/PaHuMbIu">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.codewars.com/users/LaProfessional/stats">
