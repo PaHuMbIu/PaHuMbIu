@@ -1,4 +1,4 @@
-<p>
+<img width="1365" height="1365" alt="image" src="https://github.com/user-attachments/assets/7fdc44d9-c999-41aa-a10c-9bfd6a768cac" /><p>
   <a href="https://t.me/PaHuMbIu">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -50,6 +50,15 @@
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 10px;" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" style="margin: 10px; background-color: white; border-radius: 8px; padding: 4px;" />
+  </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer" title="Zustand">
+    <img src="https://i.gyazo.com/0b9885319f847c27d71365283769228a.png" alt="Zustand" width="40" style="margin: 10px; border-radius: 8px;" />
+  </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer" title="Jest">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" style="margin: 10px;" />
   </a>
 </p>
 
