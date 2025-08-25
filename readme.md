@@ -1,4 +1,4 @@
-<img width="1365" height="1365" alt="image" src="https://github.com/user-attachments/assets/7fdc44d9-c999-41aa-a10c-9bfd6a768cac" /><p>
+<p>
   <a href="https://t.me/PaHuMbIu">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -38,6 +38,12 @@
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" title="shadcn/ui">
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" style="margin: 10px; border-radius: 8px;" />
   </a>
+  <a href="https://eslint.org/" target="_blank" rel="noreferrer" title="ESLint">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" style="margin: 10px;" />
+  </a>
+  <a href="https://prettier.io/" target="_blank" rel="noreferrer" title="Prettier">
+    <img src="https://cdn.jsdelivr.net/gh/prettier/prettier-logo/images/prettier-icon-light.svg" alt="Prettier" width="40" style="margin: 10px; background-color: white; border-radius: 8px; padding: 4px;" />
+  </a>
 </p>
 
 <h3 align="left">🧠 Currently learning:</h3>
@@ -52,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 10px;" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" style="margin: 10px; background-color: white; border-radius: 8px; padding: 4px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" style="margin: 10px; background-color: white; border-radius: 8px; padding: 4px;" />
   </a>
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer" title="Zustand">
     <img src="https://i.gyazo.com/0b9885319f847c27d71365283769228a.png" alt="Zustand" width="40" style="margin: 10px; border-radius: 8px;" />
