@@ -66,6 +66,9 @@
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer" title="Jest">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" style="margin: 10px;" />
   </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" style="margin: 10px;" />
+  </a>
 </p>
 
 ---
