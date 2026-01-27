@@ -20,9 +20,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" style="margin: 10px;" />
   </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" style="margin: 10px; background-color: white; border-radius: 8px; padding: 4px;" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" style="margin: 10px;" />
   </a>
@@ -37,6 +34,9 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" style="margin: 10px;" />
+  </a>
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" style="margin: 10px; background-color: white; border-radius: 8px; padding: 4px;" />
   </a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" title="shadcn/ui">
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" style="margin: 10px; border-radius: 8px;" />
