@@ -64,7 +64,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" style="margin: 10px;" />
   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer" title="Prisma">
-    <img src="https://raw.githubusercontent.com/prisma/prisma/main/logo.svg" alt="Prisma" width="40" style="margin: 10px; border-radius: 8px; background-color: white; padding: 4px;" />
+    <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/prisma-icon.png" alt="Prisma" width="40" style="margin: 10px;" />
   </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer" title="Redis">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" style="margin: 10px;" />
@@ -89,9 +89,6 @@
 ---
 ### 🔥 My Stats: 
 
-[![Top Langs](https://github-readme-stats-phi-lake-12.vercel.app/api/top-langs/?username=PaHuMbIu&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![Top Langs](https://github-readme-stats-phi-lake-12.vercel.app/api/top-langs/?username=PaHuMbIu&layout=compact&theme=vision-friendly-dark&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 
