@@ -60,6 +60,21 @@
 
 <h3 align="left">🧠 Currently learning:</h3>
 <p align="left">
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer" title="Node.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" style="margin: 10px;" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer" title="Prisma">
+    <img src="https://raw.githubusercontent.com/prisma/prisma/main/logo.svg" alt="Prisma" width="40" style="margin: 10px; border-radius: 8px; background-color: white; padding: 4px;" />
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer" title="Redis">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" style="margin: 10px;" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" title="NestJS">
+    <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" style="margin: 10px; border-radius: 8px; background-color: white; padding: 4px;" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" style="margin: 10px;" />
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin: 10px;" />
   </a>
