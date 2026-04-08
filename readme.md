@@ -1,8 +1,8 @@
 <p>
-  <a href="https://t.me/PaHuMbIu">
+  <a href="https://t.me/pavelflex">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/PaHuMbIu">
+  <a href="https://www.codewars.com/users/pavelflex">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
 </p>
@@ -89,6 +89,6 @@
 ---
 ### 🔥 My Stats: 
 
-[![Top Langs](https://github-readme-stats-phi-lake-12.vercel.app/api/top-langs/?username=PaHuMbIu&layout=compact&theme=vision-friendly-dark&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-phi-lake-12.vercel.app/api/top-langs/?username=pavflex&layout=compact&theme=vision-friendly-dark&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 
