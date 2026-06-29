@@ -56,6 +56,9 @@
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" style="margin: 10px;" />
   </a>
+  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer" title="TanStack Query (React Query)">
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="TanStack Query" width="40" style="margin: 10px;" />
+</a>
 </p>
 
 <h3 align="left">🧠 Currently learning:</h3>
