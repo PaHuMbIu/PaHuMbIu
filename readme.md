@@ -59,6 +59,14 @@
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer" title="TanStack Query (React Query)">
   <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="TanStack Query" width="40" style="margin: 10px;" />
 </a>
+<a href="https://docs.rw/" target="_blank" rel="noreferrer" title="Remnawave">
+  <img
+    src="https://cdn.docs.rw/logos/logo.svg"
+    alt="Remnawave"
+    width="40"
+    style="margin: 10px; border-radius: 8px;"
+  />
+</a>
 </p>
 
 <h3 align="left">🧠 Currently learning:</h3>
